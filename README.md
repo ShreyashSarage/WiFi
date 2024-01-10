@@ -3,7 +3,7 @@
 ![Alt text](Wi-Fi.png)
 
 
-### MINO
+### MIMO
  -> It is the method of multiplying the capacity of the radio link using multiple transmission and receiving antennas to exploit multi-path propagation 
  -> It has become an important element of wireless communication standard which includes 
  
